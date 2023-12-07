@@ -5,7 +5,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 
 
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img style="text-align: center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="800" height="512" />
 
 
 - 💼 any freelance work? do reach, [email](mailto:wzysws@gmail.com) :)
