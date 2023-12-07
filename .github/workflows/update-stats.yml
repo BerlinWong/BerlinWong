@@ -1,4 +1,4 @@
-name: Berlin Readme
+name: waka Readme
 
 on:
   workflow_dispatch:
