@@ -7,10 +7,8 @@
 - 💼 感兴趣了解一下我的工作？可以发送邮件, [Email](mailto:wzysws@gmail.com) :)
 - 💬 初学者 or 咨询其他事宜，我也很乐意提供帮助！
 
-<span style="display: flex;align-content: center;align-items: center; height: 300px;width: 400px;background-size: cover; background-image: url('https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true');background-position: center;">
-</span>
 
-[//]: # (<img style="margin: 0 auto;" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="800" height="600" />)
+<img style="margin: 0 auto;object-fit: cover;" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
 
 
 **语言和工具：**
