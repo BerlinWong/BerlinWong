@@ -1,5 +1,5 @@
 # 嗨，
-我是王柏林[ (Berlin Wong) ](https://github.com/berlinwong), 目前在一家金融公司任职，本身是一位Web开发程序猿，随着工作变动以及公司业务要求，开始摸索机器学习和深度学习。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我是王柏林[ (Berlin Wong) ](https://github.com/berlinwong), 目前在一家金融公司任职，本身是一位Web开发程序猿，随着工作变动以及公司业务要求，开始摸索机器学习和深度学习。
 
 在学习的过程中，慢慢上手除了Python以外的，包括Java、C、C++以及Dart。
 
@@ -12,7 +12,7 @@
 <img style="margin: 0 auto;object-fit: cover;" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
 
 
-### 语言和工具：
+## 语言和工具：
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg'></code>
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg'></code>
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg'></code>
@@ -41,12 +41,12 @@
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg'></code>
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg'></code>
 
-### 常用操作系统:
+## 常用操作系统:
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg'></code>
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg'></code>
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg'></code>
 
-### 📊本周编码时间分布:
+## 📊本周编码时间分布:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2040%20mins-blue)
 
@@ -116,7 +116,7 @@ CSS                      1 repo              ████░░░░░░░�
 <a href="https://www.buymeacoffee.com/BerlinWong"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=BerlinWong&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 
-### 📈 **GitHub状态**
+## 📈 **GitHub状态**
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=berlinwong&show_icons=true&theme=swift" alt="berlinwong" />
 
 
