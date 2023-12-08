@@ -117,14 +117,6 @@ CSS                      1 repo              ████░░░░░░░�
 
 <a href="https://www.buymeacoffee.com/BerlinWong"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=BerlinWong&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
-🚧 **Todoist状态:**
-<!-- TODO-IST:START -->
-🏆  250 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 13 tasks so far           
-⏳  Longest streak is 1 days
-<!-- TODO-IST:END -->
-
 
 📈 **GitHub状态**
 
