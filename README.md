@@ -4,17 +4,16 @@
 
 工作中主要涉及一些算法编写以及图形化界面开发，MySQL是手边常用的数据库，在学习的过程中也希望能找到志同道合的小伙伴共同开发优质项目。
 
-
 - 💼 感兴趣了解一下我的工作？可以发送邮件, [Email](mailto:wzysws@gmail.com) :)
 - 💬 初学者 or 咨询其他事宜，我也很乐意提供帮助！
 
+<div style="display: flex;align-content: center;align-items: center; height: 600px;width: 100%;">
+    <img style="margin: 0 auto;" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="800" height="600" />
+</div>
 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-
-
-**语言和工具:**  
+**语言和工具:**
 
 [//]: # (<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>)
 
@@ -66,13 +65,11 @@
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg'></code>
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg'></code>
 
-
 **常用操作系统:**
 
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg'></code>
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg'></code>
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg'></code>
-
 
 📊 **本周编码时间分布:**
 <!--START_SECTION:waka-->
@@ -93,13 +90,12 @@ Text             0 secs          ░░░░░░░░░░░░░░░�
 
 <a href="https://www.buymeacoffee.com/BerlinWong"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=BerlinWong&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
-
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
-🏆  250 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 13 tasks so far           
-⏳  Longest streak is 1 days
+🏆 250 Karma Points           
+🌸 Completed 0 tasks today           
+✅ Completed 13 tasks so far           
+⏳ Longest streak is 1 days
 <!-- TODO-IST:END -->
 
 
