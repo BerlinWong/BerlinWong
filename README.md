@@ -7,9 +7,10 @@
 - 💼 感兴趣了解一下我的工作？可以发送邮件, [Email](mailto:wzysws@gmail.com) :)
 - 💬 初学者 or 咨询其他事宜，我也很乐意提供帮助！
 
-<div style="display: flex;align-content: center;align-items: center; height: 600px;width: 100%;">
-    <img style="margin: 0 auto;" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="800" height="600" />
+<div style="display: flex;align-content: center;align-items: center; height: 600px;width: 100%; background-image: url('https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true');background-position: center;">
 </div>
+
+[//]: # (<img style="margin: 0 auto;" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="800" height="600" />)
 
 
 **语言和工具：**
@@ -42,14 +43,11 @@
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg'></code>
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg'></code>
 
-
 **常用操作系统:**
 
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg'></code>
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg'></code>
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg'></code>
-
-
 
 📊 **本周编码时间分布:**
 <!--START_SECTION:waka-->
