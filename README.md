@@ -1,7 +1,7 @@
 # 嗨，
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我是王柏林[ (Berlin Wong) ](https://github.com/berlinwong), 目前在一家金融公司任职，本身是一位Web开发程序猿，随着工作变动以及公司业务要求，开始摸索机器学习和深度学习。
 
-在学习的过程中，慢慢上手除了Python以外的，包括Java、C、C++以及Dart。
+在学习的过程中，慢慢学习了Python、Java、C、C++以及Dart这几个比较热门的语言。
 
 工作中主要涉及一些算法编写以及图形化界面开发，MySQL是手边常用的数据库，在学习的过程中也希望能找到志同道合的小伙伴共同开发优质项目。
 
