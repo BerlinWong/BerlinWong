@@ -65,7 +65,7 @@ Text             0 secs          ░░░░░░░░░░░░░░░�
 
 <a href="https://www.buymeacoffee.com/BerlinWong"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=BerlinWong&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
-🚧 **my todoist stats:**
+🚧 **Todoist状态:**
 <!-- TODO-IST:START -->
 🏆  250 Karma Points           
 🌸  Completed 0 tasks today           
@@ -74,9 +74,9 @@ Text             0 secs          ░░░░░░░░░░░░░░░�
 <!-- TODO-IST:END -->
 
 
-📈 My Github Stats
+📈 **GitHub状态**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=berlinwong&show_icons=true&theme=gotham" alt="berlinwong" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=berlinwong&show_icons=true&theme=swift" alt="berlinwong" />
 
 
 
