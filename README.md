@@ -18,23 +18,23 @@
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg'></code>
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg'></code>
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg'></code>
+<code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg'></code>
+<code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg'></code>
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg'></code>
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'></code>
-
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'></code>
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'></code>
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg'></code>
-<code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg'></code>
-<code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg'></code>
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg'></code>
+<code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg'></code>
 
+<code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg'></code>
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg'></code>
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg'></code>
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg'></code>
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg'></code>
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg'></code>
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg'></code>
-
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'></code>
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg'></code>
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg'></code>
@@ -42,8 +42,6 @@
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg'></code>
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg'></code>
 
-<code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg'></code>
-<code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg'></code>
 
 **常用操作系统:**
 
