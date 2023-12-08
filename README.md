@@ -14,7 +14,7 @@
 
 
 
-<div style="display: flex;flex-direction: row;margin: 50px 0">
+<div style="display: flex;flex-direction: row;margin: 50px 0;">
 <div style="width: 48%">
 <strong>语言和工具：</strong>
 
@@ -45,7 +45,7 @@
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg'></code>
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg'></code>
 </div>
-<div>
+<div style="width: 48%">
 <strong>常用操作系统:</strong>
 
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg'></code>
@@ -53,8 +53,6 @@
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg'></code>
 </div>
 </div>
-
-
 
 
 📊 **本周编码时间分布:**
@@ -70,8 +68,7 @@ Text             0 secs          ░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-
-
+---
 如果你觉得，艾玛，这人真有趣，也请不要吝啬您的钱包哦~ 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/BerlinWong"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=BerlinWong&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
