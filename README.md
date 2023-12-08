@@ -11,7 +11,7 @@
 <img style="margin: 0 auto;object-fit: cover;" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
 
 
-**语言和工具：**
+### 语言和工具：
 
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg'></code>
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg'></code>
@@ -41,13 +41,17 @@
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg'></code>
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg'></code>
 
-**常用操作系统:**
+### 常用操作系统:
+
+---
 
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg'></code>
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg'></code>
 <code><img height="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg'></code>
 
-📊 **本周编码时间分布:**
+### 📊本周编码时间分布:
+
+---
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2045%20mins-blue)
 
@@ -113,13 +117,14 @@ CSS                      1 repo              ████░░░░░░░�
 <!--END_SECTION:waka-->
 
 ---
-如果你觉得，艾玛，这人真有趣，也请不要吝啬您的钱包哦~ 🥺👉👈
+如果你觉得，艾玛，这人真有趣，额...🥺👉👈
 
 <a href="https://www.buymeacoffee.com/BerlinWong"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=BerlinWong&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 
-📈 **GitHub状态**
+### 📈 **GitHub状态**
 
+---
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=berlinwong&show_icons=true&theme=swift" alt="berlinwong" />
 
 
