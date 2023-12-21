@@ -50,7 +50,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2035%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-397-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-231-blue)
 
 **I'm an Early 🐤** 
 
@@ -112,7 +112,7 @@ JavaScript               1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BerlinWong/BerlinWong/main/assets/bar_graph.png)
 
 
- Last Updated on 21/12/2023 12:31:08 UTC
+ Last Updated on 21/12/2023 15:16:50 UTC
 <!--END_SECTION:waka-->
 
 
