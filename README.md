@@ -48,7 +48,7 @@
 
 ## 📊本周编码时间分布:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-180%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-172%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -112,7 +112,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BerlinWong/BerlinWong/main/assets/bar_graph.png)
 
 
- Last Updated on 19/01/2024 15:18:05 UTC
+ Last Updated on 19/01/2024 18:21:32 UTC
 <!--END_SECTION:waka-->
 
 
