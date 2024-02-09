@@ -79,15 +79,13 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    25 mins             ████████████████████░░░░░   81.92 % 
-Vue.js                   5 mins              █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Edge                     25 mins             ████████████████████░░░░░   81.92 % 
-WebStorm                 5 mins              █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -106,7 +104,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BerlinWong/BerlinWong/main/assets/bar_graph.png)
 
 
- Last Updated on 09/02/2024 18:19:22 UTC
+ Last Updated on 09/02/2024 21:14:30 UTC
 <!--END_SECTION:waka-->
 
 
