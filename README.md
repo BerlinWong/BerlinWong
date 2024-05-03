@@ -48,7 +48,7 @@
 
 ## 📊本周编码时间分布:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-452%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-452%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -79,15 +79,13 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    11 hrs 50 mins      █████████████████████████   99.29 % 
-Jupyter                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Other                    10 hrs 24 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Edge                     11 hrs 50 mins      █████████████████████████   99.29 % 
-PyCharm                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Edge                     10 hrs 24 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      11 hrs 55 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -107,7 +105,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BerlinWong/BerlinWong/main/assets/bar_graph.png)
 
 
- Last Updated on 03/05/2024 18:21:02 UTC
+ Last Updated on 03/05/2024 21:14:40 UTC
 <!--END_SECTION:waka-->
 
 
