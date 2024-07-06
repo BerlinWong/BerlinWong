@@ -1,5 +1,5 @@
 # 嗨，
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我是王柏林[ (Berlin Wong) ](https://github.com/berlinwong), 目前在一家金融公司任职，本身是一位Web开发程序猿，随着工作变动以及公司业务要求，开始摸索机器学习和深度学习。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我是王柏林[ (Berlin Wong) ](https://github.com/berlinwong), 曾在一家私募基金工作，后又从事了AGI相关工作。本身是一位Web开发程序猿，随着工作变动以及公司业务要求，开始摸索机器学习和深度学习，兴趣使然开始接触了AI领域。
 
 在学习的过程中，慢慢学习了Python、Java、C、C++以及Dart这几个比较热门的语言。
 
