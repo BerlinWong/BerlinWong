@@ -48,7 +48,7 @@
 
 ## 📊本周编码时间分布:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C073%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C075%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -79,15 +79,15 @@ Sunday                   16 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    8 hrs 39 mins       ██████████████████████░░░   87.22 % 
-Markdown                 1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Other                    8 hrs 8 mins        ████████████████████░░░░░   80.35 % 
+Markdown                 1 hr 59 mins        █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
 
 🔥 Editors: 
-Edge                     9 hrs 55 mins       █████████████████████████   100.00 % 
+Edge                     10 hrs 7 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      9 hrs 1 min         ███████████████████████░░   90.88 % 
-Windows                  54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+Mac                      9 hrs 53 mins       ████████████████████████░   97.76 % 
+Windows                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -107,7 +107,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BerlinWong/BerlinWong/main/assets/bar_graph.png)
 
 
- Last Updated on 13/03/2025 18:30:11 UTC
+ Last Updated on 13/03/2025 21:20:09 UTC
 <!--END_SECTION:waka-->
 
 
