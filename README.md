@@ -48,7 +48,7 @@
 
 ## 📊本周编码时间分布:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C153%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C158%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -79,14 +79,15 @@ Sunday                   16 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    9 hrs 31 mins       ████████████████████████░   97.73 % 
-Makefile                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Other                    13 hrs 11 mins      ████████████████████████░   97.90 % 
+Makefile                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 🔥 Editors: 
-Edge                     9 hrs 44 mins       █████████████████████████   100.00 % 
+Edge                     13 hrs 28 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      9 hrs 44 mins       █████████████████████████   100.00 % 
+Mac                      13 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -106,7 +107,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BerlinWong/BerlinWong/main/assets/bar_graph.png)
 
 
- Last Updated on 19/05/2025 18:32:54 UTC
+ Last Updated on 19/05/2025 21:21:41 UTC
 <!--END_SECTION:waka-->
 
 
