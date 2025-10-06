@@ -79,18 +79,13 @@ Sunday                   16 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 14 mins        ███████████████████░░░░░░   75.57 % 
-Python                   23 mins             ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Edge                     1 hr 27 mins        ██████████████████████░░░   88.69 % 
-PyCharm                  8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-Cursor                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 38 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -110,7 +105,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BerlinWong/BerlinWong/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2025 18:32:57 UTC
+ Last Updated on 06/10/2025 21:19:44 UTC
 <!--END_SECTION:waka-->
 
 
