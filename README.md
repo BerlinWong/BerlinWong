@@ -81,15 +81,15 @@ Sunday                   22 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 21 mins        ██████████████████░░░░░░░   70.73 % 
-HTML                     33 mins             ███████░░░░░░░░░░░░░░░░░░   29.27 % 
+Other                    59 mins             ██████████████████░░░░░░░   72.18 % 
+HTML                     22 mins             ███████░░░░░░░░░░░░░░░░░░   27.82 % 
 
 🔥 Editors: 
-Edge                     1 hr 54 mins        █████████████████████████   100.00 % 
+Edge                     1 hr 22 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 28 mins        ███████████████████░░░░░░   77.47 % 
-Mac                      25 mins             ██████░░░░░░░░░░░░░░░░░░░   22.53 % 
+Windows                  1 hr 18 mins        ████████████████████████░   95.09 % 
+Mac                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -115,7 +115,7 @@ QML                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BerlinWong/BerlinWong/main/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2026 16:02:53 UTC
+ Last Updated on 04/09/2026 20:33:26 UTC
 <!--END_SECTION:waka-->
 
 
