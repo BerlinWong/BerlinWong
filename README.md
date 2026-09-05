@@ -48,9 +48,9 @@
 
 ## 📊本周编码时间分布:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-733%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-733%20hrs%2047%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2025%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -81,21 +81,42 @@ Sunday                   22 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    59 mins             ██████████████████░░░░░░░   72.18 % 
-HTML                     22 mins             ███████░░░░░░░░░░░░░░░░░░   27.82 % 
+Other                    1 hr                ████████████░░░░░░░░░░░░░   46.75 % 
+HTML                     22 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+Python                   16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+CSV                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Jupyter                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
 
 🔥 Editors: 
-Edge                     1 hr 22 mins        █████████████████████████   100.00 % 
+Edge                     1 hr 23 mins        ████████████████░░░░░░░░░   64.47 % 
+PyCharm                  31 mins             ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
+Antigravity IDE          14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
 
 💻 Operating System: 
-Windows                  1 hr 18 mins        ████████████████████████░   95.09 % 
-Mac                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Windows                  1 hr 18 mins        ███████████████░░░░░░░░░░   60.59 % 
+Mac                      50 mins             ██████████░░░░░░░░░░░░░░░   39.41 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 20 mins (15.8%)
+
+✍️ 20 lines written by AI, 349 lines written by hand (5.42% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 4 AI Prompts
+
+Gemini                   20 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 5.42% of written lines came from AI
+📝 Concise Prompter — average 474 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 94.96% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -115,7 +136,7 @@ QML                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BerlinWong/BerlinWong/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2026 17:14:03 UTC
+ Last Updated on 05/09/2026 20:08:42 UTC
 <!--END_SECTION:waka-->
 
 
