@@ -81,26 +81,26 @@ Sunday                   22 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr                ████████████░░░░░░░░░░░░░   46.75 % 
-HTML                     22 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
-Python                   16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-CSV                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-Jupyter                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+Other                    56 mins             ███████████░░░░░░░░░░░░░░   45.03 % 
+HTML                     22 mins             █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
+Python                   16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+CSV                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+Jupyter                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
 
 🔥 Editors: 
-Edge                     1 hr 23 mins        ████████████████░░░░░░░░░   64.47 % 
-PyCharm                  31 mins             ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
-Antigravity IDE          14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+Edge                     1 hr 19 mins        ████████████████░░░░░░░░░   63.32 % 
+PyCharm                  31 mins             ██████░░░░░░░░░░░░░░░░░░░   25.35 % 
+Antigravity IDE          14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
 
 💻 Operating System: 
-Windows                  1 hr 18 mins        ███████████████░░░░░░░░░░   60.59 % 
-Mac                      50 mins             ██████████░░░░░░░░░░░░░░░   39.41 % 
+Windows                  1 hr 18 mins        ████████████████░░░░░░░░░   62.54 % 
+Mac                      46 mins             █████████░░░░░░░░░░░░░░░░   37.46 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 mins (15.8%)
+⏱ AI Coding Time: 20 mins (16.31%)
 
 ✍️ 20 lines written by AI, 349 lines written by hand (5.42% AI-written)
 
@@ -136,7 +136,7 @@ QML                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BerlinWong/BerlinWong/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2026 15:13:46 UTC
+ Last Updated on 06/09/2026 20:13:42 UTC
 <!--END_SECTION:waka-->
 
 
