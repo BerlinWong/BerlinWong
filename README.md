@@ -48,7 +48,7 @@
 
 ## 📊本周编码时间分布:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-733%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-734%20hrs%2032%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2025%20mins-blue?style=flat)
 
@@ -81,26 +81,26 @@ Sunday                   22 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    56 mins             ███████████░░░░░░░░░░░░░░   45.03 % 
-HTML                     22 mins             █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
-Python                   16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-CSV                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-Jupyter                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+Other                    1 hr 16 mins        ██████████░░░░░░░░░░░░░░░   41.29 % 
+Python                   1 hr 1 min          ████████░░░░░░░░░░░░░░░░░   33.33 % 
+HTML                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+CSV                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+Jupyter                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 
 🔥 Editors: 
-Edge                     1 hr 19 mins        ████████████████░░░░░░░░░   63.32 % 
-PyCharm                  31 mins             ██████░░░░░░░░░░░░░░░░░░░   25.35 % 
-Antigravity IDE          14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+Edge                     2 hrs 19 mins       ███████████████████░░░░░░   75.34 % 
+PyCharm                  31 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+Antigravity IDE          14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
 
 💻 Operating System: 
-Windows                  1 hr 18 mins        ████████████████░░░░░░░░░   62.54 % 
-Mac                      46 mins             █████████░░░░░░░░░░░░░░░░   37.46 % 
+Windows                  2 hrs 19 mins       ███████████████████░░░░░░   74.81 % 
+Mac                      46 mins             ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 mins (16.31%)
+⏱ AI Coding Time: 20 mins (10.97%)
 
 ✍️ 20 lines written by AI, 349 lines written by hand (5.42% AI-written)
 
@@ -136,7 +136,7 @@ QML                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BerlinWong/BerlinWong/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2026 19:03:48 UTC
+ Last Updated on 07/09/2026 23:21:53 UTC
 <!--END_SECTION:waka-->
 
 
