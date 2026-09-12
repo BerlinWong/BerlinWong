@@ -81,42 +81,21 @@ Sunday                   22 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 19 mins        ███████████░░░░░░░░░░░░░░   42.45 % 
-Other                    1 hr 18 mins        ██████████░░░░░░░░░░░░░░░   41.92 % 
-CSV                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-Jupyter                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Other                    1 hr 43 mins        █████████████░░░░░░░░░░░░   53.02 % 
+Python                   1 hr 31 mins        ████████████░░░░░░░░░░░░░   46.98 % 
 
 🔥 Editors: 
-Edge                     2 hrs 20 mins       ███████████████████░░░░░░   75.42 % 
-PyCharm                  31 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-Antigravity IDE          14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+Edge                     3 hrs 14 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 57 mins        ████████████████░░░░░░░░░   63.11 % 
-Mac                      1 hr 8 mins         █████████░░░░░░░░░░░░░░░░   36.89 % 
+Windows                  2 hrs 47 mins       █████████████████████░░░░   85.97 % 
+Mac                      27 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 mins (10.93%)
-
-✍️ 20 lines written by AI, 349 lines written by hand (5.42% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 4 AI Prompts
-
-Gemini                   20 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 5.42% of written lines came from AI
-📝 Concise Prompter — average 474 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 94.96% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -136,7 +115,7 @@ QML                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BerlinWong/BerlinWong/main/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2026 15:18:56 UTC
+ Last Updated on 12/09/2026 20:22:44 UTC
 <!--END_SECTION:waka-->
 
 
