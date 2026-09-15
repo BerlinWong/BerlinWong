@@ -48,7 +48,7 @@
 
 ## 📊本周编码时间分布:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-735%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-736%20hrs%205%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2025%20mins-blue?style=flat)
 
@@ -81,15 +81,15 @@ Sunday                   22 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 32 mins        █████████████████░░░░░░░░   66.53 % 
-Python                   46 mins             ████████░░░░░░░░░░░░░░░░░   33.47 % 
+Other                    1 hr 46 mins        ██████████████░░░░░░░░░░░   55.76 % 
+Python                   1 hr 24 mins        ███████████░░░░░░░░░░░░░░   44.24 % 
 
 🔥 Editors: 
-Edge                     2 hrs 18 mins       █████████████████████████   100.00 % 
+Edge                     3 hrs 11 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 39 mins        ██████████████████░░░░░░░   71.87 % 
-Mac                      38 mins             ███████░░░░░░░░░░░░░░░░░░   28.13 % 
+Windows                  2 hrs 31 mins       ████████████████████░░░░░   79.37 % 
+Mac                      39 mins             █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -115,7 +115,7 @@ QML                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BerlinWong/BerlinWong/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2026 16:38:17 UTC
+ Last Updated on 15/09/2026 21:03:14 UTC
 <!--END_SECTION:waka-->
 
 
